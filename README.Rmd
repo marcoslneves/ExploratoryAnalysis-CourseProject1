@@ -1,0 +1,24 @@
+Exploratory Data Analysis - Course Project 1
+=========================================
+
+### Description
+
+This repo contains a project to Coursera Course "Exploratory Data Analysis" that is part of Data Sciencist Specialization.  There are 4 scripts called `Plot1.R`, `Plot2.R`, `Plot3.R` and `Plot4.R` that contais functions to:
+
+1. Download the raw datasets from UCI Repo
+2. Read data and make a clean version of raw dataset
+3. Do data transformations to format and filter
+4. Plot a PNG image containig one or more graphs with dimensions (width=480, height=480)
+
+### Run from command line
+
+1. Clone this repo
+2. Run the scripts:
+
+       $ Rscript Plot1.R  
+       $ Rscript Plot2.R  
+       $ Rscript Plot3.R  
+       $ Rscript Plot4.R  
+ 
+3. Look for the final PNG images at your working directory root
+
